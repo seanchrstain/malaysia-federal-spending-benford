@@ -1,6 +1,6 @@
 # Malaysian Federal Operating Expenditure: Benford's Law Test (1980–2025)
 
-An audit-style analysis of Malaysia's federal operating expenditure using open government data. The project cleans and reconciles the data, explores spending trends with SQL, and applies Benford's Law, a screening technique used in forensic accounting and auditing.
+An audit style analysis of Malaysia's federal operating expenditure using open government data. The project cleans and reconciles the data, explores spending trends with SQL, and applies Benford's Law, a screening technique used in forensic accounting and auditing.
 
 ## Data
 
