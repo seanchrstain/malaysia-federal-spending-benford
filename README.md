@@ -49,3 +49,7 @@ Fulcrum (2024). *Malaysia's Public Service Pensions: Will to Reform, Without A R
 ## Author
 
 Sean Christain Badai, Bachelor of Accounting (Hons) student, Universiti Malaysia Sabah
+
+## Disclaimer
+
+*This is an independent personal project. It is not affiliated with or endorsed by the Government of Malaysia, and all interpretations are my own.*
